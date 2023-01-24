@@ -1,1 +1,2 @@
-# personal-projectr
+## personal-projectr
+``` sudo apt update ```
